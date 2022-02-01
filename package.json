@@ -1,7 +1,7 @@
 {
   "name": "lister",
   "version": "1.0.0",
-  "description": "",
+  "description": "lister CRUD api",
   "main": "app.js",
   "scripts": {
     "dev": "npx nodemon app.js",
